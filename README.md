@@ -33,11 +33,11 @@ Proponer de manera semanal títulos de artículos llamativos para la construcci�
 
 Manejo de pasarela de pagos y E-commer´s integrados al gestor de contenido Wordpress, así cómo WooCommerce y Magento (Lenguaje de programación PHP)
 
-## Diseñador web en Panamericana Librería y Papelería S.A.S
+## Diseñador web en Panamericana Librería y Papelería S.A.S (Agosto 2021 - Diciembre de 2022):
 
 Diseño y desarrollo de sitios web para proveedores de tecnología, diseño de pauta orgánica y paga para plataformas de publicidad cómo criteo y Google Ads, banners, flyers y otros materiales gráficos para clientes internos y externos. Utilizo programas Como Photoshop, Illustrator, InDesign, Dreamweaver y el gestor de contenido (E-commerce) en maquetado web con HTML, CSS y JavaScript.
 
-## Desarrollador de software en VALUATIVE S.A.S. (octubre de 2019 – Octubre del 2020):
+## Desarrollador de software en VALUATIVE S.A.S. ( Octubre de 2019 – Octubre del 2020):
 
 Diseño y desarrollo del sitio web y la intranet. Utilice programas como Photoshop, Illustrator, InDesign, Dreamweaver, Joomla, HTML, CSS y JavaScript.
 Velar por la seguridad y el estado de servidores internos y  manejo del programa de dashboard de Avast business. 
