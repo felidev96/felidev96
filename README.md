@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 - 🎯 Objetivo
 -->
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-    
 
 ## 👨‍💻 Perfil profesional
 
@@ -31,6 +25,15 @@ Soy **diseñador gráfico** y **desarrollador web** con más de cinco años de e
 
 ## 🎯 Algunas tecnologías que uso
 
+*Tecnologías Web*
+Html - css3 - Bootstrap 
+Php - Java - Javascript
+
+*Programas de Diseño*
+- Adobe Illustrator
+- Adobe Photoshop
+- Adobe After Effects
+- Adobe XD y Figma
 
 
 ## 💼 Experiencia 
