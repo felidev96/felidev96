@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 -->
 🎯 Objetivo
 
-👨‍💻 Perfil profesional
+## 👨‍💻 Perfil profesional
 
 Soy **diseñador gráfico** y **desarrollador web** con más de cinco años de experiencia en el sector. Me apasiona crear soluciones visuales innovadoras y funcionales para diferentes medios y plataformas. Tengo conocimientos avanzados en diseño gráfico, desarrollo web, marketing digital y gestión de proyectos. 
 
-💼 Experiencia 
+## 💼 Experiencia 
 
 ## Coordinador de E - commerce  Diseñador web master ( Marzo del 2023 - Actualmente)
 
