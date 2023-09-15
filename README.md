@@ -42,6 +42,6 @@ Diseño y desarrollo de sitios web para proveedores de tecnología, diseño de p
 Diseño y desarrollo del sitio web y la intranet. Utilice programas como Photoshop, Illustrator, InDesign, Dreamweaver, Joomla, HTML, CSS y JavaScript.
 Velar por la seguridad y el estado de servidores internos y  manejo del programa de dashboard de Avast business. 
 
-Diseñador gráfico y desarrollador web freelance (Junio 2015 - Diciembre de 2018):
+## Diseñador gráfico y desarrollador web freelance (Junio 2015 - Diciembre de 2018):
 
 Realizo proyectos de diseño gráfico y desarrollo web para clientes particulares y empresas. Creo sitios web responsivos, interfaces de usuario, identidades corporativas, campañas publicitarias y otros productos digitales. Utilizo herramientas como Sketch, Figma, Bootstrap, React, PHP y MySQL.
