@@ -17,11 +17,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🎯 Objetivo
 -->
-🎯 Objetivo
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+    
 
 ## 👨‍💻 Perfil profesional
 
 Soy **diseñador gráfico** y **desarrollador web** con más de cinco años de experiencia en el sector. Me apasiona crear soluciones visuales innovadoras y funcionales para diferentes medios y plataformas. Tengo conocimientos avanzados en diseño gráfico, desarrollo web, marketing digital y gestión de proyectos. 
+
+## 🎯 Algunas tecnologías que uso
+
+
 
 ## 💼 Experiencia 
 
