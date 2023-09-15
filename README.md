@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 🎯 Objetivo
 
 💼 Experiencia 
+👨‍💻 Perfil profesional
+  Soy un diseñador gráfico y desarrollador web con más de cinco años de experiencia en el sector. Me apasiona crear soluciones visuales innovadoras y funcionales para 
+  diferentes medios y plataformas. Tengo conocimientos avanzados en diseño gráfico, desarrollo web, marketing digital y gestión de proyectos. 
